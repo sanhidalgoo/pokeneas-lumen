@@ -1,10 +1,6 @@
 <?php
 
 namespace App\Http\Controllers;
-
-use App\Http\Resources\PokeneaResource;
-use  App\Http\Resources\PokeneaCollection;
-
 class PokeneaController extends Controller
 {
     public static $pokeneas = array(

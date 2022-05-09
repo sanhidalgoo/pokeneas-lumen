@@ -27,7 +27,7 @@
                 <?php echo $pokenea['phrase']; ?>
             </p>
             <i>
-                <?php echo $docker_container; ?>
+                <?php echo "Container ID: " . $docker_container; ?>
             </i>
         </div>
     </div>
